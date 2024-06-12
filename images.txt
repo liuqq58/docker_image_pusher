@@ -1,6 +1,6 @@
 nginx
 #支持私库
 #支持指定架构
---platform=linux/arm64 talebook/talebook
---platform=linux/arm64 f99aq8ove/gitbucket
---platform=linux/arm64 haroldli/xiaoya-tvbox
+--platform=linux/amd64 talebook/talebook
+--platform=linux/amd64 f99aq8ove/gitbucket
+--platform=linux/amd64 haroldli/xiaoya-tvbox

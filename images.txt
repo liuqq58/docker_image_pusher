@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 zmisgod/iptvchecker:latest
+--platform=linux/amd64 hslr/sun-panel:latest

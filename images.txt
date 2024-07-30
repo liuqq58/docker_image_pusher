@@ -2,4 +2,4 @@
 #--platform=linux/amd64 privoce/vocechat-server:latest
 #--platform=linux/amd64 haroldli/xiaoya-tvbox:hostmode
 rocket.chat:latest
-mongodb:4.4
+bitnami/mongodb:4.4

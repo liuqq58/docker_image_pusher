@@ -1,5 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64 privoce/vocechat-server:latest
---platform=linux/amd64 haroldli/xiaoya-tvbox:hostmode
-#rocket.chat
-#mongo
+#--platform=linux/amd64 haroldli/xiaoya-tvbox:hostmode
+rocket.chat:latest
+MongoDB

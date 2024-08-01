@@ -10,4 +10,6 @@
 #rocketchat/rocket.chat:latest
 #bitnami/mongodb:4.4
 #rocketchat/rocket.chat:develop
-EasyImage
+ArchiveBox/ArchiveBox
+
+

@@ -10,6 +10,8 @@
 #rocketchat/rocket.chat:latest
 #bitnami/mongodb:4.4
 #rocketchat/rocket.chat:develop
-archivebox/archivebox
+#archivebox/archivebox
+yourls
+hanxi/xiaomusic
 
 

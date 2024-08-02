@@ -11,7 +11,8 @@
 #bitnami/mongodb:4.4
 #rocketchat/rocket.chat:develop
 #archivebox/archivebox
-yourls
-hanxi/xiaomusic
+#yourls
+#hanxi/xiaomusic
+qdtoday/qd:latest
 
 

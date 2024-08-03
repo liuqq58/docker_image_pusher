@@ -15,6 +15,6 @@
 #hanxi/xiaomusic
 #qdtoday/qd:latest
 #suisuijiang/fiora
-airsonic-advanced/airsonic-advanced
+airsonicadvanced/airsonic-advanced
 
 

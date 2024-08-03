@@ -16,6 +16,6 @@
 #qdtoday/qd:latest
 #suisuijiang/fiora
 #jellyfin/jellyfin:latest
-revenz/fenrus:latest
-
-
+archivebox/archivebox:latest
+valeriansaliou/sonic:latest
+linuxserver/wireguard:latest

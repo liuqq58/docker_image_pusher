@@ -12,9 +12,9 @@
 #rocketchat/rocket.chat:develop
 #archivebox/archivebox
 #yourls
-#hanxi/xiaomusic
+hanxi/xiaomusic
 #qdtoday/qd:latest
 #suisuijiang/fiora
-jellyfin/jellyfin:latest
+#jellyfin/jellyfin:latest
 
 

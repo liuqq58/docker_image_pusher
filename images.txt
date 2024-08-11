@@ -19,4 +19,5 @@
 #archivebox/archivebox:latest
 #valeriansaliou/sonic:latest
 #linuxserver/wireguard:latest
-minio/minio
+#minio/minio
+hectorqin/reader

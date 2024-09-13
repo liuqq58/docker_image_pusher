@@ -20,4 +20,5 @@
 #valeriansaliou/sonic:latest
 #linuxserver/wireguard:latest
 #minio/minio
-hectorqin/reader
+#hectorqin/reader
+anduin2017/how-to-cook

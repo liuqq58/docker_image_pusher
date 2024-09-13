@@ -21,4 +21,5 @@
 #linuxserver/wireguard:latest
 #minio/minio
 #hectorqin/reader
-ghcr.io/anduin2017/how-to-cook
+#ghcr.io/anduin2017/how-to-cook  #菜谱项目docker
+yunyoujun/cook
